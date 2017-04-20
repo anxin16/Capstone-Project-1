@@ -1,4 +1,3 @@
-### This is the final report of capstone project.
 # Factors affect engagement and satisfaction of employees in the Federal workforce
 	A Capstone project:  
         	Tonia Chu  
