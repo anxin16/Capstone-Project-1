@@ -24,7 +24,7 @@ The purpose of this project is to analyze the data of FEVS and identify the work
 
 The analysis try to provide information for agency leaders and managers seek to improve their human capital management. Every agency has its own unique mission and workforce, and its own set of special human capital challenges. Guided by the analysis results, agency leaders can take steps to improve how employees engage with their jobs, organizations, and missions.
 
-## III. Report
+## III. Result
 [Report](https://github.com/anxin16/Capstone-Project-1/blob/master/Capstone-Report/Capstone%20Report.pdf)
 
 [Code](https://github.com/anxin16/Capstone-Project-1/blob/master/Capstone-Report/Capstone.R)
